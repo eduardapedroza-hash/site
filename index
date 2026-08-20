@@ -1,0 +1,33 @@
+ 
+ <!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pen</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com"&gt;
+<link rel="preconnect" href="https://fonts.gstatic.com&quot; crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Molle:ital@1&display=swap&quot; rel="stylesheet">
+  </head>
+  <body>
+    <h1>Portal Literário</h1>
+    <h2>A importância da leitura</h2>
+    <p> A leitura vai muito além de um hábito de lazer. Ela atua como uma ferramenta indispensável para o desenvolvimento da comunicação, da empatia e da saúde cerebral. Estudos neurocientíficos comprovam que o ato de ler ativa redes neurais complexas, transformando profundamente a forma como o cérebro processa informações.
+    </p>
+    <a href="https://brasilescola.uol.com.br/sociologia/bullying.htm"target="blank">Fonte</a&gt;
+    <img src="https://pixabay.com/pt/images/download/kollinger-books-5211309_1920.jpg"alt="Livros, Biblioteca, Estantes de livros.">
+         <h2>Estímulo Cognitivo e Saúde Mental</h2>
+    <ul>
+    <li>O hábito estimula as conexões entre os neurônios, o que melhora a memória e a capacidade de concentração. Pesquisas indicam que a leitura frequente ao longo da vida ajuda a preservar a reserva cognitiva, reduzindo o ritmo de declínio mental na velhice e prevenindo sintomas de doenças neurodegenerativas.</li>
+      <li>
+        <a href="https://www.181.pr.gov.br">Disque 181</a>
+      </li>    
+      <li>central 156</li>
+    </ul>
+
+     <button id='botao_tema'> Modo Escuro </button>
+   
+    <script src="./script.js"></script>
+  </body>
+</html>
